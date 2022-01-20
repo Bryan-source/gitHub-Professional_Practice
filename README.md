@@ -13,6 +13,6 @@ The most voted repositories are those that have a contribution manual and a code
 
 You can add emojis in your README file and in your commits. Some tricks for messages in your commits. https://www.webfx.com/tools/emoji-cheat-sheet/
 
-### Editor.md :editormd-logo:
+### Editor.md
 https://pandao.github.io/editor.md/en.html
 [![Editor md](https://i.imgur.com/FZ0lVwH.png "Editor md")](https://i.imgur.com/FZ0lVwH.png "Editor md")
